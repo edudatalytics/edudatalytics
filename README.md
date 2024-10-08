@@ -1,12 +1,35 @@
-### Olá, eu sou o Eduardo! 👋
+👋 Olá! Sou um **cientista de dados formado pela EBAC**, apaixonado por transformar dados em insights valiosos e soluções práticas.
 
-- 👋 Olá, eu sou @edudatalytics
-- 👀 Tenho interesse em ciência de dados, aprendizado de máquina e visualização de dados.
-- 🌱 Atualmente, estou aprendendo técnicas avançadas de aprendizado de máquina e ciencia de dados .
-- 💞️ Estou procurando colaborar em projetos de ciência de dados de código aberto
-- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/eduardo-matos-b97ba827a/) | [Email](eduardomatos2399@gmail.com)
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato curioso: Adoro explorar novas tecnologias no meu tempo livre.
+💻 **Habilidades**: 
+- Linguagens: Python, SQL
+- Machine Learning 
+- Análise Estatística e Visualização de Dados
+- Pré-processamento e Limpeza de Dados
+- Desenvolvimento de Aplicações Web com Streamlit
+
+📈 **Projetos**: 
+- **Auto Machine Learning App**: Uma aplicação para automação de modelagem preditiva.
+  
+- **Classificação de Imagens**: Um projeto que aplica técnicas de machine learning para classificar imagens.
+  
+- **Clusterização de Clientes**: Segmentação de clientes baseada em dados para estratégias de marketing
+  
+- **Pipelines e Pré-Processamento de Dados**: Implementação de pipelines para otimizar o fluxo de dados.
+  
+- **Regressão e Modelagem Estatística**: Análise de dados com modelos estatísticos.
+  
+- **Segmentação de Dados**: Análise aprofundada e segmentação de dados para insights acionáveis.
+  
+- **RFV - Análise de Clientes**: Um projeto focado na análise de clientes com base em frequência, recência e valor.
+
+
+🤝 Estou sempre aberto a colaborações e novos desafios. Sinta-se à vontade para entrar em contato!
+
+
+📫 **Conecte-se comigo**: [LinkedIn](https://www.linkedin.com/in/eduardo-matos-b97ba827a/) 
+
+E-mail: [eduardomatos2399@gmail.com](mailto:eduardomatos2399@gmail.com) 
+
 
 
 <!---
