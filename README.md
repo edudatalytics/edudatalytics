@@ -1,7 +1,7 @@
 👋 Olá! Sou um **cientista de dados formado pela EBAC**, apaixonado por transformar dados em insights valiosos e soluções práticas.
 
 💻 **Habilidades**: 
-- Linguagens: Python, SQL
+- Linguagens: Python, SQL , Power BI
 - Machine Learning 
 - Análise Estatística e Visualização de Dados
 - Pré-processamento e Limpeza de Dados
