@@ -1,38 +1,37 @@
-👋 Olá! Sou um **cientista de dados formado pela EBAC**, apaixonado por transformar dados em insights valiosos e soluções práticas.
+# 👋 Olá, eu sou Eduardo Matos
 
-💻 **Habilidades**: 
-- Linguagens: Python, SQL , Power BI
-- Machine Learning 
-- Análise Estatística e Visualização de Dados
-- Pré-processamento e Limpeza de Dados
-- Desenvolvimento de Aplicações Web com Streamlit
+Sou Cientista de Dados formado pela EBAC, apaixonado por transformar dados em **insights acionáveis** e **soluções práticas** para negócios. Tenho experiência prática em análise de dados, machine learning e desenvolvimento de aplicações com foco em dados.
 
-📈 **Projetos**: 
-- **Auto Machine Learning App**: Uma aplicação para automação de modelagem preditiva.
-  
-- **Classificação de Imagens**: Um projeto que aplica técnicas de machine learning para classificar imagens.
-  
-- **Clusterização de Clientes**: Segmentação de clientes baseada em dados para estratégias de marketing
-  
-- **Pipelines e Pré-Processamento de Dados**: Implementação de pipelines para otimizar o fluxo de dados.
-  
-- **Regressão e Modelagem Estatística**: Análise de dados com modelos estatísticos.
-  
-- **Segmentação de Dados**: Análise aprofundada e segmentação de dados para insights acionáveis.
-  
-- **RFV - Análise de Clientes**: Um projeto focado na análise de clientes com base em frequência, recência e valor.
+## 💻 Habilidades
 
+- **Linguagens**: Python, SQL  
+- **Ferramentas**: Power BI, Streamlit, Pandas, Scikit-learn, Matplotlib  
+- **Técnicas**: Análise Estatística, Visualização de Dados, Limpeza e Pré-processamento, Modelagem Preditiva, Clusterização
 
-🤝 Estou sempre aberto a colaborações e novos desafios. Sinta-se à vontade para entrar em contato!
+## 📈 Projetos em destaque
 
+🔹 **[Auto Machine Learning App](https://github.com/edudatalytics/auto-ml-app)**  
+Aplicação desenvolvida com Streamlit para automatizar tarefas de machine learning de forma intuitiva.
 
-📫 **Conecte-se comigo**: [LinkedIn](https://www.linkedin.com/in/eduardo-matos-b97ba827a/) 
+🔹 **Classificação de Imagens**  
+Uso de técnicas de ML para classificar imagens com base em aprendizado supervisionado.
 
-E-mail: [eduardomatos2399@gmail.com](mailto:eduardomatos2399@gmail.com) 
+🔹 **Clusterização de Clientes**  
+Segmentação baseada em comportamento de consumo para estratégias de marketing.
 
+🔹 **Pipelines de Dados**  
+Automação de etapas de limpeza, transformação e modelagem em fluxos reutilizáveis.
 
+🔹 **RFV – Análise de Clientes**  
+Modelo de análise baseado em recência, frequência e valor, usado em estratégias de CRM.
 
-<!---
-edudatalytics/edudatalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Interesses
+
+Estou sempre aberto a colaborações, freelas ou projetos desafiadores na área de dados.  
+Gosto de ambientes dinâmicos e onde eu possa aprender constantemente.
+
+## 📫 Contato
+
+- ✉️ E-mail: eduardomatos2399@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/matos-eduardo)  
+- 💼 [Veja meus projetos no GitHub](https://github.com/edudatalytics)
