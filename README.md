@@ -33,5 +33,29 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edudatalytics&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudatalytics&layout=compact&theme=dark&hide_border=true" height="150" />
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matos-eduardo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:edu.datalytics@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 
