@@ -1,37 +1,52 @@
-# 👋 Olá, eu sou Eduardo Matos
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Sou Cientista de Dados formado pela EBAC, apaixonado por transformar dados em **insights acionáveis** e **soluções práticas** para negócios. Tenho experiência prática em análise de dados, machine learning e desenvolvimento de aplicações com foco em dados.
+###
 
-## 💻 Habilidades
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-- **Linguagens**: Python, SQL  
-- **Ferramentas**: Power BI, Streamlit, Pandas, Scikit-learn, Matplotlib  
-- **Técnicas**: Análise Estatística, Visualização de Dados, Limpeza e Pré-processamento, Modelagem Preditiva, Clusterização
+###
 
-## 📈 Projetos em destaque
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-🔹 **[Auto Machine Learning App](https://github.com/edudatalytics/auto-ml-app)**  
-Aplicação desenvolvida com Streamlit para automatizar tarefas de machine learning de forma intuitiva.
+###
 
-🔹 **Classificação de Imagens**  
-Uso de técnicas de ML para classificar imagens com base em aprendizado supervisionado.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-🔹 **Clusterização de Clientes**  
-Segmentação baseada em comportamento de consumo para estratégias de marketing.
+###
 
-🔹 **Pipelines de Dados**  
-Automação de etapas de limpeza, transformação e modelagem em fluxos reutilizáveis.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-🔹 **RFV – Análise de Clientes**  
-Modelo de análise baseado em recência, frequência e valor, usado em estratégias de CRM.
-
-## 🤝 Interesses
-
-Estou sempre aberto a colaborações, freelas ou projetos desafiadores na área de dados.  
-Gosto de ambientes dinâmicos e onde eu possa aprender constantemente.
-
-## 📫 Contato
-
-- ✉️ E-mail: eduardomatos2399@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/matos-eduardo)  
-- 💼 [Veja meus projetos no GitHub](https://github.com/edudatalytics)
+###
