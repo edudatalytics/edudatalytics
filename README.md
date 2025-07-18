@@ -18,24 +18,29 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="&perline=6">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=scikit" height="50" alt="Scikit-Learn" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="50" alt="Matplotlib" />
-  <img src="https://skillicons.dev/icons?i=seaborn" height="50" alt="Seaborn" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="50" alt="Power BI" />
-  <img src="https://skillicons.dev/icons?i=colab" height="50" alt="Google Colab" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="pandas logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="numpy logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=scikit" height="60" alt="scikit-learn logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="60" alt="matplotlib logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=seaborn" height="60" alt="seaborn logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=powerbi" height="60" alt="powerbi logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=jupyter" height="60" alt="jupyter logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=colab" height="60" alt="google colab logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="google cloud logo" />
 </div>
-
 ---
 
 ### 📈 GitHub Stats
