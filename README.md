@@ -8,11 +8,10 @@
 
 ### 🧠 Sobre mim
 
-Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecimento. Atualmente estou me aprofundando em Estatística, Probabilidade, e técnicas de aprendizado de máquina com foco em aplicações reais.
+Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecimento. Atualmente estou em constante aprendizado, sempre aprimorando meus conhecimentos em Estatística, Probabilidade e Machine Learning, com foco em aplicações reais.
 
-- 🇧🇷 Baseado no Brasil  
 - 📊 Interesse por ciência de dados aplicada a negócios  
-- 📚 Estudando: Aprendizado Supervisionado, Visualização de Dados e Feature Engineering  
+- 📚 Formado e em constante aprendizado em Aprendizado Supervisionado, Visualização de Dados e Feature Engineering  
 - 👨‍💻 Atualmente focado em projetos com Python, pandas, sklearn e visualização com seaborn/matplotlib
 
 ---
@@ -48,7 +47,4 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:edu.datalytics@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
+    <img src="https://img.shields.io/badge/-G
