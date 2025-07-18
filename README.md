@@ -20,7 +20,7 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 
 <div align="left" style="line-height: 0.8;">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="anaconda" />
   <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" />
   <img src="https://skillicons.dev/icons?i=scikit" height="40" alt="Scikit-Learn" />
 </div>
