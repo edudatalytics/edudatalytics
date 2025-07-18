@@ -18,7 +18,7 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+<div align="&perline=6">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" />
   <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" />
