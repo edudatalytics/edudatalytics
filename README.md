@@ -18,30 +18,21 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
+###
+
+<div align="left" style="line-height: 0;">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="pandas logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="numpy logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=scikit" height="60" alt="scikit-learn logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=matplotlib" height="60" alt="matplotlib logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=seaborn" height="60" alt="seaborn logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=powerbi" height="60" alt="powerbi logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=jupyter" height="60" alt="jupyter logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=colab" height="60" alt="google colab logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="google cloud logo" />
 </div>
----
 
 ### 📈 GitHub Stats
 
