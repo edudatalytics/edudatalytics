@@ -19,10 +19,10 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 ## Tecnologias e linguagens 💻
 
 <div align="left" style="line-height: 0.8;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=scikit" height="40" alt="Scikit-Learn" />
 </div>
 
 ---
@@ -30,10 +30,10 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 ## 🚀 Frameworks e bibliotecas
 
 <div align="left" style="line-height: 0.8;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/google-colab/google-colab-original.svg" height="40" alt="Google Colab" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="40" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=seaborn" height="40" alt="Seaborn" />
+  <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=colab" height="40" alt="Google Colab" />
 </div>
 
 ---
@@ -41,12 +41,13 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 ## 🛠️ Ferramentas de desenvolvimento
 
 <div align="left" style="line-height: 0.8;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/amazon-aws/amazon-aws-original.svg" height="40" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/google-cloud/google-cloud-original.svg" height="40" alt="Google Cloud Platform" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud Platform" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 </div>
+
 
 
 
