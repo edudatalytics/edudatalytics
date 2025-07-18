@@ -1,52 +1,54 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+<h1 align="center">Olá, eu sou o Eduardo Matos 👋</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <b>Cientista de Dados | Estatística | Probabilidade | SQL | Python | Machine Learning</b>
 </div>
 
-###
+---
+
+### 🧠 Sobre mim
+
+Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecimento. Atualmente estou me aprofundando em Estatística, Probabilidade, e técnicas de aprendizado de máquina com foco em aplicações reais.
+
+- 🇧🇷 Baseado no Brasil  
+- 📊 Interesse por ciência de dados aplicada a negócios  
+- 📚 Estudando: Aprendizado Supervisionado, Visualização de Dados e Feature Engineering  
+- 👨‍💻 Atualmente focado em projetos com Python, pandas, sklearn e visualização com seaborn/matplotlib
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=scikit" height="50" alt="Scikit-Learn" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
 </div>
 
-###
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=edudatalytics&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudatalytics&layout=compact&theme=dark&hide_border=true" height="150" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 📫 Contato
 
-###
+<div align="center">
+  <a href="https://www.linkedin.com/in/matos-eduardo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:edu.datalytics@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
