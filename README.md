@@ -20,31 +20,18 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" />
   <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy" />
   <img src="https://skillicons.dev/icons?i=scikit" height="50" alt="Scikit-Learn" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="50" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=seaborn" height="50" alt="Seaborn" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="50" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=colab" height="50" alt="Google Colab" />
+  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-</div>
+  <img src="https://skillicons.dev
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edudatalytics&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudatalytics&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
-
----
-
-### 📫 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matos-eduardo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:edu.datalytics@gmail.com">
-    <img src="https://img.shields.io/badge/-G
