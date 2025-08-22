@@ -26,7 +26,7 @@ Tenho experiência prática em **Estatística, Probabilidade e Machine Learning*
 ## 📂 Projetos em Destaque
 - **[Clusterização de Clientes](https://github.com/edudatalytics/Portiflio---Ciencia-de-Dados/tree/main/Clusteriza%C3%A7%C3%A3o%20de%20Clientes)** – Segmentação com K-Means e DBSCAN para identificar perfis de clientes.  
 - **[Pipelines de Pré-processamento](https://github.com/edudatalytics/Portiflio-Ciencia-deDados/tree/main/Pipelines%20e%20Pr%C3%A9%20Processamento%20de%20Dados)** – Automação de limpeza, padronização e PCA em dataset de crédito.  
-- **[Regressão e Modelagem Estatística](https://github.com/edudatalytics/Portifolio-Ciencia-de-Dados/tree/main/Regress%C3%A3o%20e%20Modelagem%20Estat%C3%ADstica)** – Modelos de regressão linear/logística para variáveis socioeconômicas.  
+- **[Regressão e Modelagem Estatística](https://github.com/edudatalytics/Portiflio---Ciencia-de-Dados/tree/main/Regress%C3%A3o%20e%20Modelagem%20Estat%C3%ADstica)** – Modelos de regressão linear/logística para variáveis socioeconômicas.  
 - **[Segmentação RFV](https://github.com/edudatalytics/RFV)** – Análise RFV para identificar clientes de alto valor.  
 
 ---
