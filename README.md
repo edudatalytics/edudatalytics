@@ -14,64 +14,20 @@ Sou formado em Ciência de Dados e apaixonado por transformar dados em conhecime
 - 📚 Formado e em constante aprendizado em Aprendizado Supervisionado, Visualização de Dados e Feature Engineering  
 - 👨‍💻 Atualmente focado em projetos com Python, pandas, sklearn e visualização com seaborn/matplotlib
 
----
-
-## Tecnologias e linguagens 💻
-
-<div align="left" style="line-height: 0.8;">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="anaconda" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=scikit" height="40" alt="Scikit-Learn" />
-</div>
+##  Projetos em Destaque
+- **[Clusterização de Clientes](https://github.com/edudatalytics/Portiflio---Ciencia-de-Dados/tree/main/Clusteriza%C3%A7%C3%A3o%20de%20Clientes)** – Obrigado com K-Means e DBSCAN para identificar perfis de clientes.  
+- **[Pipelines de Pré-processamento](https://github.com/edudatalytics/Portiflio-Ciencia-deDados/tree/main/Pipelines%20e%20Pr%C3%A9%20Processamento%20de%20Dados)** – Automação de limpeza, padronização e PCA em dataset de crédito.  
+- **[Regressão e Modelagem Estatística](https://github.com/edudatalytics/Portifolio-Ciencia-de-Dados/tree/main/Regress%C3%A3o%20e%20Modelagem%20Estat%C3%ADstica)** – Modelos de regressão linear/logística para variáveis socioeconômicas.  
+- **[Segmentação RFV](https://github.com/edudatalytics/RFV)** – Análise RFV para identificar clientes de alto valor.
 
 ---
 
-## 🚀 Frameworks e bibliotecas
-
-<div align="left" style="line-height: 0.8;">
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="40" alt="Matplotlib" />
-  <img src="https://skillicons.dev/icons?i=seaborn" height="40" alt="Seaborn" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" />
-  <img src="https://skillicons.dev/icons?i=colab" height="40" alt="Google Colab" />
-</div>
+##  Contato
+- **LinkedIn:** [linkedin.com/in/matos-eduardo](https://www.linkedin.com/in/matos-eduardo)  
+- **E-mail:** eduardomatos2399@gmail.com
 
 ---
 
-## 🛠️ Ferramentas de desenvolvimento
-
-<div align="left" style="line-height: 0.8;">
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud Platform" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-</div>
-
-
-
-
-
-
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edudatalytics&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudatalytics&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
-
----
-
-### 📫 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matos-eduardo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:edu.datalytics@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+⭐ Sempre aberto a colaborações na área de Data Science. Vamos conversar?
 
 
