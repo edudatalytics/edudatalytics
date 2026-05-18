@@ -56,6 +56,23 @@ Pipeline end-to-end para previsão de receita mensal de e-commerce brasileiro: S
 
 ---
 
+### 😴 [Sistema de Detecção de Sonolência](https://github.com/edudatalytics/projeto-sonolencia)
+
+Sistema de visão computacional em tempo real que monitora motoristas detectando sonolência e bocejo via webcam, com alertas visuais, sonoros e dashboard de análise.
+
+| Métrica | Resultado |
+|--------|-----------|
+| EAR limiar | **0.22** (fechamento dos olhos) |
+| MAR limiar | **0.60** (detecção de bocejo) |
+| Tempo de resposta | **1.5s** até o alerta |
+| Log de eventos | **CSV automático** com timestamp |
+
+**Stack:** `Python` `OpenCV` `MediaPipe` `NumPy` `Pygame` `Pandas` `Matplotlib`
+
+**Destaques:** Cálculo de EAR e MAR em tempo real, alertas sonoros com .mp3 independentes por tipo, log automático de eventos e dashboard de análise com 4 gráficos
+
+---
+
 ### 🗄️ [Pipeline ETL em SQL — Análise de Engajamento de Clientes](https://github.com/edudatalytics/sql-analise-engajamento-clientes)
 
 Pipeline ETL completo em SQL puro para transformar dados brutos de transações em features analíticas prontas para Machine Learning.
@@ -96,6 +113,10 @@ Pipeline de pré-processamento de imagens implementado em Python puro — sem Op
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
+### Visão Computacional
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+
 ### Deploy & MLOps
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -115,6 +136,7 @@ Pipeline de pré-processamento de imagens implementado em Python puro — sem Op
 |---------|------------------|-------------------|
 | 🔒 Detecção de Fraude | ROC-AUC 97,7% | Economia estimada R$ 80.820 |
 | 📈 Previsão de Receita Olist | MAPE 3,9% | Pipeline SQL → ML → API REST |
+| 😴 Detecção de Sonolência | EAR + MAR em tempo real | Alertas visuais + sonoros + dashboard |
 | 🗄️ Pipeline ETL SQL | 30+ features temporais | 9 CTEs encadeadas |
 | 🔍 Redução de Dimensionalidade | Redução 66% | Pré-processamento para CNNs |
 
