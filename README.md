@@ -22,6 +22,38 @@ Cientista de Dados com projetos end-to-end em Machine Learning — desde a explo
 
 ## 🚀 Projetos em Destaque
 
+### ❤️ [Previsão de Doenças Cardíacas — TabPFN + FastAPI + Streamlit](https://github.com/edudatalytics/heart-disease-tabpfn)
+
+Aplicação completa de Machine Learning para previsão de doenças cardíacas, cobrindo todo o ciclo de Ciência de Dados: EDA, modelagem, API e interface interativa. Arquitetura desacoplada — Streamlit consome uma API FastAPI que serve o modelo TabPFN e retorna diagnóstico com probabilidades em tempo real.
+
+| Métrica | TabPFN | XGBoost |
+|--------|--------|---------|
+| ROC-AUC | **0,922** | 0,856 |
+| Precisão | **0,869** | 0,803 |
+| F1-Score | **0,889** | 0,838 |
+| Falsos Negativos | **1** | 2 |
+
+**Stack:** `Python` `TabPFN` `XGBoost` `FastAPI` `Streamlit` `Scikit-learn` `Pydantic`
+
+**Destaques:** Comparação justa entre TabPFN e XGBoost sem ajuste de hiperparâmetros, API REST com validação automática via Pydantic, interface interativa desacoplada do modelo, priorização de recall em contexto clínico (menor taxa de falsos negativos)
+
+---
+
+### 🧠 [JobMatch AI — Matching de Vagas com NLP](https://github.com/edudatalytics/jobmatch-ai)
+
+Sistema de NLP que utiliza BERTimbau e sentence-transformers para recomendar vagas de emprego com base na similaridade semântica entre a descrição da vaga e o perfil profissional do candidato.
+
+| Métrica | Resultado |
+|--------|-----------|
+| MAE (fine-tuning) | **12.36** |
+| Melhoria sobre baseline | **~51%** |
+
+**Stack:** `Python` `BERTimbau` `Sentence-Transformers` `NLP` `PyTorch` `Scikit-learn`
+
+**Destaques:** Fine-tuning de modelo Transformer em português (BERTimbau), embeddings semânticos para matching vaga-perfil, sistema de recomendação ponta a ponta
+
+---
+
 ### 🔒 [Detecção de Fraudes em Cartão de Crédito](https://github.com/edudatalytics/credit-card-fraud-detection)
 
 Pipeline completo de ML para detectar transações fraudulentas em dataset altamente desbalanceado (284.807 transações, 0.17% fraudes).
@@ -56,6 +88,21 @@ Pipeline end-to-end para previsão de receita mensal de e-commerce brasileiro: S
 
 ---
 
+### 💰 [Previsão de Inflação Brasileira — IPCA](https://github.com/edudatalytics/ipca-forecast)
+
+Projeto end-to-end de séries temporais para prever o IPCA (inflação oficial do Brasil), comparando modelos de Machine Learning com abordagens estatísticas clássicas.
+
+| Métrica | Resultado |
+|--------|-----------|
+| MAE (Ensemble) | **0,062** |
+| Melhor abordagem | **Ensemble** (superou modelos individuais) |
+
+**Stack:** `Python` `XGBoost` `Pandas` `Power BI`
+
+**Destaques:** Validação temporal (sem data leakage), engenharia de features com lags e sazonalidade, dashboard executivo no Power BI com paleta dark
+
+---
+
 ### 😴 [Sistema de Detecção de Sonolência](https://github.com/edudatalytics/projeto-sonolencia)
 
 Sistema de visão computacional em tempo real que monitora motoristas detectando sonolência e bocejo via webcam, com alertas visuais, sonoros e dashboard de análise.
@@ -69,7 +116,7 @@ Sistema de visão computacional em tempo real que monitora motoristas detectando
 
 **Stack:** `Python` `OpenCV` `MediaPipe` `NumPy` `Pygame` `Pandas` `Matplotlib`
 
-**Destaques:** Cálculo de EAR e MAR em tempo real, alertas sonoros com .mp3 independentes por tipo, log automático de eventos e dashboard de análise com 4 gráficos
+**Destaques:** Cálculo de EAR e MAR em tempo real via MediaPipe Face Mesh (468 landmarks), alertas sonoros com .mp3 independentes por tipo, log automático de eventos e dashboard de análise com 4 gráficos
 
 ---
 
@@ -112,6 +159,11 @@ Pipeline de pré-processamento de imagens implementado em Python puro — sem Op
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![TabPFN](https://img.shields.io/badge/TabPFN-6A0DAD?style=for-the-badge)
+
+### NLP & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![BERTimbau](https://img.shields.io/badge/BERTimbau-FFD21E?style=for-the-badge)
 
 ### Visão Computacional
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -134,8 +186,11 @@ Pipeline de pré-processamento de imagens implementado em Python puro — sem Op
 
 | Projeto | Métrica Principal | Impacto de Negócio |
 |---------|------------------|-------------------|
+| ❤️ Previsão de Doenças Cardíacas | ROC-AUC 0,922 (TabPFN) | Apenas 1 falso negativo — API + interface em produção |
+| 🧠 JobMatch AI | MAE 12.36 (~51% vs. baseline) | Recomendação de vagas via NLP semântico |
 | 🔒 Detecção de Fraude | ROC-AUC 97,7% | Economia estimada R$ 80.820 |
 | 📈 Previsão de Receita Olist | MAPE 3,9% | Pipeline SQL → ML → API REST |
+| 💰 Previsão de Inflação (IPCA) | MAE 0,062 (Ensemble) | Dashboard executivo no Power BI |
 | 😴 Detecção de Sonolência | EAR + MAR em tempo real | Alertas visuais + sonoros + dashboard |
 | 🗄️ Pipeline ETL SQL | 30+ features temporais | 9 CTEs encadeadas |
 | 🔍 Redução de Dimensionalidade | Redução 66% | Pré-processamento para CNNs |
